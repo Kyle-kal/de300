@@ -1,0 +1,3 @@
+Group: Kyle Kalenka(solo)
+MWAA Environment: 'kalenka-mwaa'
+S3: 'kalenka-mwaa'
